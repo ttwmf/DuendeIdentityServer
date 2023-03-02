@@ -5,6 +5,7 @@ using IdentityServer.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddRazorPages();
 builder.Services.AddIdentityServer(options =>
 {
     options.Events.RaiseErrorEvents = true;
@@ -13,7 +14,7 @@ builder.Services.AddIdentityServer(options =>
     options.Events.RaiseSuccessEvents = true;
 
     options.EmitStaticAudienceClaim = true;
-}).AddTestUsers(TestUsers.Users)
+}).AddTestUsers(IdentityServer.TestUsers.Users)
   .AddInMemoryClients(Config.Clients)
   .AddInMemoryApiResources(Config.ApiResources)
   .AddInMemoryApiScopes(Config.ApiScopes)
@@ -22,7 +23,9 @@ builder.Services.AddIdentityServer(options =>
 var app = builder.Build();
 
 app.UseIdentityServer();
-
-app.MapGet("/", () => "Hello World!");
+app.UseStaticFiles();
+app.UseRouting();
+app.UseAuthorization();
+app.MapRazorPages().RequireAuthorization();
 
 app.Run();

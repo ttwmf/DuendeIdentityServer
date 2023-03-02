@@ -1,4 +1,6 @@
 ﻿using IdentityModel.Client;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using System.Diagnostics;
@@ -28,12 +30,16 @@ namespace WebApp.Controllers
             return View();
         }
 
+        [Authorize]
         public async Task<IActionResult> Weather()
         {
             using var httpClient = new HttpClient();
-            var token = await _tokenService.GetTokenAsync("weatherapi.read");
+            //var token = await _tokenService.GetTokenAsync("weatherapi.read");
 
-            httpClient.SetBearerToken(token.AccessToken);
+            //OpenId Connect
+            var token = await HttpContext.GetTokenAsync("access_token");
+
+            httpClient.SetBearerToken(token);
 
             var result = await httpClient.GetAsync("https://localhost:5445/weatherforecast");
 

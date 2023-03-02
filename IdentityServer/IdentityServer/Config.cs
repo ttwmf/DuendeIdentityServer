@@ -60,12 +60,14 @@ namespace IdentityServer
 
                 AllowedGrantTypes = GrantTypes.Code,
 
-                RedirectUris = { "https://localhost:44300/signin-oidc" },
-                FrontChannelLogoutUri = "https://localhost:44300/signout-oidc",
-                PostLogoutRedirectUris = { "https://localhost:44300/signout-callback-oidc" },
+                RedirectUris = { "https://localhost:5444/signin-oidc" },
+                FrontChannelLogoutUri = "https://localhost:5444/signout-oidc",
+                PostLogoutRedirectUris = { "https://localhost:5444/signout-callback-oidc" },
 
                 AllowOfflineAccess = true,
-                AllowedScopes = { "openid", "profile", "scope2" }
+                AllowedScopes = { "openid", "profile", "weatherapi.read" },
+
+                //RequireConsent = true
             },
             };
     }

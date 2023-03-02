@@ -1,11 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "CK/LFipQJpn8WFHyuyom0k/RO5famT4zDrsI1XeQCUNlZ6BDFh9MyaYgZ5kB2Cw6RfKhr36hDEEX26W/e2GLmA==",
+  "dgSpecHash": "XBHIuTihQ1p+ZByaoPPGdszeSjlfbRG9oLLnYRSAlreq3BEZ3cr9xq2mdaKeNOdrzB5tyiOp1zg99VR3zMfVWw==",
   "success": true,
-  "projectFilePath": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\WebApp\\WebApp.csproj",
+  "projectFilePath": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\WebApp\\WebApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\THAI\\.nuget\\packages\\identitymodel\\6.0.0\\identitymodel.6.0.0.nupkg.sha512",
-    "C:\\Users\\THAI\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+    "C:\\Users\\Tri Nguyen\\.nuget\\packages\\identitymodel\\6.0.0\\identitymodel.6.0.0.nupkg.sha512",
+    "C:\\Users\\Tri Nguyen\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\6.0.14\\microsoft.aspnetcore.authentication.openidconnect.6.0.14.nupkg.sha512",
+    "C:\\Users\\Tri Nguyen\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Tri Nguyen\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.10.0\\microsoft.identitymodel.jsonwebtokens.6.10.0.nupkg.sha512",
+    "C:\\Users\\Tri Nguyen\\.nuget\\packages\\microsoft.identitymodel.logging\\6.10.0\\microsoft.identitymodel.logging.6.10.0.nupkg.sha512",
+    "C:\\Users\\Tri Nguyen\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.10.0\\microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
+    "C:\\Users\\Tri Nguyen\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.10.0\\microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
+    "C:\\Users\\Tri Nguyen\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.10.0\\microsoft.identitymodel.tokens.6.10.0.nupkg.sha512",
+    "C:\\Users\\Tri Nguyen\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Tri Nguyen\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.10.0\\system.identitymodel.tokens.jwt.6.10.0.nupkg.sha512",
+    "C:\\Users\\Tri Nguyen\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
