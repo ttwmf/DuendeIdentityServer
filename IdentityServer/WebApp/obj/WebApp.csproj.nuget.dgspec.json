@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\WebApp\\WebApp.csproj": {}
+    "D:\\Online-Courses\\IdentityServer\\IdentityServer\\WebApp\\WebApp.csproj": {}
   },
   "projects": {
-    "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\WebApp\\WebApp.csproj": {
+    "D:\\Online-Courses\\IdentityServer\\IdentityServer\\WebApp\\WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\WebApp\\WebApp.csproj",
+        "projectUniqueName": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\WebApp\\WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\WebApp\\WebApp.csproj",
-        "packagesPath": "C:\\Users\\Tri Nguyen\\.nuget\\packages\\",
-        "outputPath": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\WebApp\\obj\\",
+        "projectPath": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\WebApp\\WebApp.csproj",
+        "packagesPath": "C:\\Users\\THAI\\.nuget\\packages\\",
+        "outputPath": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\WebApp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Tri Nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\THAI\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,8 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/dgvdigital/DPointPublic/_packaging/DPointFeed/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -76,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

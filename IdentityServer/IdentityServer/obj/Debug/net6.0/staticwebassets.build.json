@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hsuldmnjePR46bwCu7PRRPyREb0rMyYEEnTcxtDKGuY=",
+  "Hash": "fCiZJZLbt/ql5BDKL0sia7v8yBUmQfgZW4lmk10Z1xk=",
   "Source": "IdentityServer",
   "BasePath": "_content/IdentityServer",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "IdentityServer\\wwwroot",
       "Source": "IdentityServer",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\css\\site.css",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\css\\site.min.css",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\css\\site.min.css",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "css/site.min.css",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.min.css"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\css\\site.scss",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\css\\site.scss",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "css/site.scss",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.scss"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\duende-logo.svg",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\duende-logo.svg",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "duende-logo.svg",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\duende-logo.svg"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\favicon.ico",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\js\\signin-redirect.js",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\js\\signin-redirect.js",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "js/signin-redirect.js",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signin-redirect.js"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\js\\signout-redirect.js",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\js\\signout-redirect.js",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "js/signout-redirect.js",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signout-redirect.js"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\README.md",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap\\README.md",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/bootstrap/README.md",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\README.md"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.css",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.css",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/bootstrap4-glyphicons/css/bootstrap-glyphicons.css",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.css"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.min.css",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.min.css",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/bootstrap4-glyphicons/css/bootstrap-glyphicons.min.css",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.min.css"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.eot",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.eot",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/bootstrap4-glyphicons/fonts/glyphicons/glyphicons-halflings-regular.eot",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.eot"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.svg",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.svg",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/bootstrap4-glyphicons/fonts/glyphicons/glyphicons-halflings-regular.svg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.svg"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.ttf",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.ttf",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/bootstrap4-glyphicons/fonts/glyphicons/glyphicons-halflings-regular.ttf",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.ttf"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/bootstrap4-glyphicons/fonts/glyphicons/glyphicons-halflings-regular.woff",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff2",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff2",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/bootstrap4-glyphicons/fonts/glyphicons/glyphicons-halflings-regular.woff2",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff2"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\LICENSE",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\LICENSE",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/bootstrap4-glyphicons/LICENSE",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\LICENSE"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.css",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.css",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/bootstrap4-glyphicons/maps/glyphicons-fontawesome.css",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.css"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.less",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.less",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/bootstrap4-glyphicons/maps/glyphicons-fontawesome.less",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.less"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.min.css",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.min.css",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/bootstrap4-glyphicons/maps/glyphicons-fontawesome.min.css",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.min.css"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/jquery/dist/jquery.slim.js",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.slim.js"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/jquery/dist/jquery.slim.min.js",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/jquery/dist/jquery.slim.min.map",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\jquery\\README.md",
+      "Identity": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\lib\\jquery\\README.md",
       "SourceId": "IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnettutorial\\Identity\\DuendeIdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
+      "ContentRoot": "D:\\Online-Courses\\IdentityServer\\IdentityServer\\IdentityServer\\wwwroot\\",
       "BasePath": "_content/IdentityServer",
       "RelativePath": "lib/jquery/README.md",
       "AssetKind": "All",

@@ -33,6 +33,7 @@ namespace EFIdentityServer
                 {
                     context.Clients.Add(client.ToEntity());
                 }
+
                 context.SaveChanges();
             }
             else
@@ -47,6 +48,7 @@ namespace EFIdentityServer
                 {
                     context.IdentityResources.Add(resource.ToEntity());
                 }
+
                 context.SaveChanges();
             }
             else
@@ -61,11 +63,27 @@ namespace EFIdentityServer
                 {
                     context.ApiScopes.Add(resource.ToEntity());
                 }
+
                 context.SaveChanges();
             }
             else
             {
                 Log.Debug("ApiScopes already populated");
+            }
+
+            if (!context.ApiResources.Any())
+            {
+                Log.Debug("ApiResources being populated");
+                foreach (var resource in Config.ApiResources.ToList())
+                {
+                    context.ApiResources.Add(resource.ToEntity());
+                }
+
+                context.SaveChanges();
+            }
+            else
+            {
+                Log.Debug("ApiResources already populated");
             }
 
             if (!context.IdentityProviders.Any())

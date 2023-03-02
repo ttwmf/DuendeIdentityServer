@@ -9,9 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi", "WebApi\WebApi.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp", "WebApp\WebApp.csproj", "{18D2B145-BFFC-4AB8-93A5-4FEC429798C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFIdentityServer", "EFIdentityServer\EFIdentityServer.csproj", "{820DAD86-7F64-40F8-B548-5C46E612FA94}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFTemplateDuende", "EFTemplateDuende\EFTemplateDuende.csproj", "{8050BBAE-8731-48D4-BBF2-C9E613AE28C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFIdentityServer", "EFIdentityServer\EFIdentityServer.csproj", "{820DAD86-7F64-40F8-B548-5C46E612FA94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +33,6 @@ Global
 		{820DAD86-7F64-40F8-B548-5C46E612FA94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{820DAD86-7F64-40F8-B548-5C46E612FA94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{820DAD86-7F64-40F8-B548-5C46E612FA94}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8050BBAE-8731-48D4-BBF2-C9E613AE28C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8050BBAE-8731-48D4-BBF2-C9E613AE28C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8050BBAE-8731-48D4-BBF2-C9E613AE28C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8050BBAE-8731-48D4-BBF2-C9E613AE28C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

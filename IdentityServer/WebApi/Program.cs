@@ -12,7 +12,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
     {
-        options.Authority = "https://localhost:5443"; 
+        options.Authority = "https://localhost:6443"; 
         options.Audience = "ThaiApi";
         options.TokenValidationParameters.ValidTypes = new[] { "at+jwt" };
     });

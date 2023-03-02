@@ -67,7 +67,7 @@ namespace EFIdentityServer
                 AllowOfflineAccess = true,
                 AllowedScopes = { "openid", "profile", "weatherapi.read" },
 
-                //RequireConsent = true
+                RequireConsent = true
             },
             };
     }
